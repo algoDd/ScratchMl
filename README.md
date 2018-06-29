@@ -3,10 +3,6 @@ This repo contains various Machine Learning Algorithms I've Implemented to exper
 
 Language : Python
 
-If You Are A Beginner , Check Out My Blog :-
-- <a href="http://blog.webintellects.info/2018/01/introduction.html">Introduction To Python</a>
-- <a href="http://blog.webintellects.info/2018/01/numpy.html">And Some Important Libraries</a>
-
 Libraries Used :
 
 NumPy
